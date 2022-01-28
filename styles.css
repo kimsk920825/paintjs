@@ -37,8 +37,8 @@ body {
   border: 1px solid rgba(0, 0, 0, 0.02);
   color: rgba(0, 0, 0, 0.8);
   text-transform: uppercase;
-  font: weight 600px;
-  font: size 12px;
+  font-weight: 600px;
+  font-size: 10px;
 }
 .controls .controls_colors {
   display: flex;
